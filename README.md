@@ -7,5 +7,4 @@ Research Computing, University College London.
 [![Website](https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=for-the-badge&style=flat)](https://harryjmoss.github.io)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge&style=flat)](https://www.linkedin.com/in/harryjmoss)
 
-[![GitHub Stats Dark](https://github-readme-stats-harryjmoss.vercel.app/api?username=harryjmoss&disable_animations=true&hide_border=true&hide_title=true&include_all_commits=true&rank_icon=github&show=prs_merged,reviews&show_icons=true&theme=tokyonight)](https://github.com/harryjmoss/harryjmoss#gh-dark-mode-only)
-[![GitHub Stats Light](https://github-readme-stats-harryjmoss.vercel.app/api?username=harryjmoss&disable_animations=true&hide_border=true&hide_title=true&include_all_commits=true&rank_icon=github&show=prs_merged,reviews&show_icons=true&theme=default)](https://github.com/harryjmoss/harryjmoss#gh-light-mode-only)
+[![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=harryjmoss)](https://github.com/anuraghazra/github-readme-stats)
